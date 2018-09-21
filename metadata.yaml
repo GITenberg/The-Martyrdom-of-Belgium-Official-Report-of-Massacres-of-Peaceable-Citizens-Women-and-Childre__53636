@@ -1,0 +1,32 @@
+_repo: The-Martyrdom-of-Belgium-Official-Report-of-Massacres-of-Peaceable-Citizens-Women-and-Childre__53636
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Cooreman, Gerard
+    birthdate: 1852
+    deathdate: 1926
+    gutenberg_agent_id: '47470'
+    url: http://www.gutenberg.org/2009/agents/47470
+  - agent_name: Belgium. Commission d'enquête sur la violation des règles du droit
+      des gens, des lois et des coutumes de la guerre
+    alias: Belgium. Commission d'enquete sur la violation des regles du droit des
+      gens, des lois et des coutumes de la guerre
+    gutenberg_agent_id: '47351'
+    url: http://www.gutenberg.org/2009/agents/47351
+description: ''
+gutenberg_issued: '2016-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53636'
+  lccn: '17016539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Atrocities'
+- GITenberg
+title: "The Martyrdom of Belgium\r\nOfficial Report of Massacres of Peaceable Citizens,\
+  \ Women and Children by The German Army"
+url: http://www.gutenberg.org/ebooks/53636
